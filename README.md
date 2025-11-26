@@ -19,4 +19,4 @@ Errors are retried; after 5 attempts messages go to dead-letter queue.
 
 Uses azure-storage-blob and Pillow for upload and resizing.
 
-Run locally with func start and test HTTP upload via API.
+Run locally with func start and test HTTP upload via API in POSTMAN.
